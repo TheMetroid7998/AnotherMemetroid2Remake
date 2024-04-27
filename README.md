@@ -1,9 +1,9 @@
 # AnotherMemetroid2Remake
-A mostly cosmetic mod made for sheer amusement, plus some small difficulty rebalances. Content Warning: Crude teenage humor ahead, potentially stale memes. Proceed at your own risk.
+A mostly cosmetic mod made for sheer amusement, plus some small difficulty rebalances. Content Warning: Potentially stale memes ahead. Proceed at your own risk.
 
 MUSIC CREDITS:
 
-Disclaimer: The tracks are not mine, they are not yours. All editing was done by myself in Audacity.
+Disclaimer: The music tracks are not mine, they are not yours. All bgm editing was done by The Metroid in Audacity. Suit palettes and text editing done by The Metroid Sound effects were added by G4m3rB01.
 
 musAlphaFight: 'energykid2 (extras & terraria)' [https://www.youtube.com/channel/UCPF6rg3cwhJiM8tkyI6TAIg]
 
