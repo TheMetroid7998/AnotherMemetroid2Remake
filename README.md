@@ -1,5 +1,5 @@
 # AnotherMemetroid2Remake
-A mostly cosmetic mod made for sheer amusement, plus some small difficulty rebalances. Content Warning: Potentially stale memes ahead. Proceed at your own risk.
+A mostly cosmetic mod made for sheer amusement. Content Warning: Potentially stale memes ahead. Proceed at your own risk.
 Additional Warning: Loud = Funny
 
 ## MUSIC CREDITS:
